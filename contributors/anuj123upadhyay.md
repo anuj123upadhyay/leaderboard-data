@@ -2,9 +2,9 @@
 name: anuj upadhyay
 title: Contributor
 github: anuj123upadhyay
-twitter: ""
-linkedin: ""
-slack: ""
+twitter: "https://x.com/anuj123upadhyay"
+linkedin: "www.linkedin.com/in/anuj1upadhyay"
+slack: "Anuj Kumar Upadhyay"
 joining_date: ""
 role: contributor
 ---
